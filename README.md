@@ -54,11 +54,3 @@ EDP/
     package.json        # scripts and dependencies
 ```
 
-## Notes
-- Build artifacts (`client/.next`), `node_modules`, and env files are ignored via `.gitignore`.
-- Line endings are normalized by Git on Windows; warnings about LF/CRLF are safe to ignore.
-
-## License
-This project is for learning/demo purposes. Add a license if you plan to distribute.
-
-
